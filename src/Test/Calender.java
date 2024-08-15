@@ -38,6 +38,7 @@ public class Calender {
 	       driver.findElement(By.cssSelector(".ui-state-default.ui-state-highlight")).click();
 			System.out.print(false);
 			System.out.print("Iam good person");
+		        System.out.print("Iam strong person");
 	}
 
 }
