@@ -37,6 +37,7 @@ public class Calender {
 	       // Calender code : highlighted date at that time we can use this path 
 	       driver.findElement(By.cssSelector(".ui-state-default.ui-state-highlight")).click();
 			System.out.print(false);
+			System.out.print("Iam good person");
 	}
 
 }
